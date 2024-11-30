@@ -1,0 +1,174 @@
+body{
+margin: 0;
+}
+.navbar{
+padding:5px 5px 0px 0px;
+display: flex;
+align-items:center;
+justify-content: space-evenly;
+background-color:	white
+box-shadow: 0px 0px 4px rgb(0,0,0,0.5);
+background-attachment: fixed;
+}
+.navbar a{
+color:	black;
+text-decoration: none;
+font-size: 15px;
+font-weight: bold;
+font-family: sans-serif;
+align-items:center ;
+margin:10px auto;
+justify-content: space-evenly;
+}
+a .studio{
+color:	#ff3399;
+}
+.search {
+box-shadow: 0px 0px 4px rgb(0,0,0,0.6);
+margin: 0;
+padding: 6px 4px 6px 4px;
+width: 28%;
+display: flex;
+margin-left: 8%;
+margin-right: 2%;
+}
+.search input{
+flex: 1;
+border:none;
+outline: none;
+color:	grey
+}
+.profile{
+text-align: center;
+}
+.profile span{
+font-size: 12px;
+}
+.wishlist span{
+font-size: 12px;
+}
+.bags span{
+    font-size: 12px;
+}   
+.flat{
+     padding: auto;
+}
+.flat-off{
+    display: flex;
+}
+.flat-off img{
+    width: 440px;
+}
+.winter{
+    padding: 2% 2%;
+    font-family: sans-serif;
+}
+.shop{
+    padding: 3% 5%;
+    font-family: sans-serif;
+} 
+.shop-links{
+    display :flex;
+}
+.shop-links img{
+    width: 300px;
+}
+.shop1{
+    padding: 3% 7%;
+}
+.shop1-links{
+     display: flex;
+}
+.shop1-links img{
+    width: 300px;
+}
+.Home{
+    padding: 2% 2%;
+    font-family: sans-serif;
+}
+.Home-living{
+    display: flex;
+}
+.Home-living img{
+    width: 1200px;
+}
+
+.category{
+    padding: 2% 2%;
+}
+.shop-category{
+    display: flex;
+}
+.shop-category img{
+    width: 1200px;
+}
+
+.ready{
+    padding: 2% 2%;
+}
+.get-ready{
+    display: flex;
+}
+.get-ready img{
+    width: 1200px;
+}
+
+
+.coupon{
+    padding: 2% 2%;
+    font-family: sans-serif;
+}
+.coupon-offer{
+    display: flex;
+}
+.coupon-offer img{
+    width: 1300px;
+}
+
+.omg{
+    padding: 2% 2%;
+}
+.omg-offer{
+    display: flex;
+}
+.omg-offer img{
+    width: 1200px;
+}
+
+.offer{
+    padding: 7% 2%;
+}
+.offer-discount{
+    display: flex;
+}
+.offer-discount img{
+    width: 300px;
+}
+
+.code{
+    padding: 2% 2%;
+}
+.code-promo{
+    display: flex;
+}
+.code-promo img{
+    width: 630px;
+}
+.images{
+    padding 2% 2%;
+}
+.images-logo{
+    display: flex;
+}
+.images-logo img{
+    width: 630px;
+}
+.know{
+    padding: 2% 2%;
+}
+.know-more{
+    display: flex;
+}
+.know-more img{
+    width: 1200px;
+}
